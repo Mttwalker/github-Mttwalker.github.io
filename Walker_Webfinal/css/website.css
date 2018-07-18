@@ -1,0 +1,52 @@
+html{
+    background-color: #42adf4;
+}
+
+body{
+    width: 700px;
+    padding: 25px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+body{
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Brush+Script|Scada|Varela" rel="stylesheet">
+    text-align: center;
+  
+    
+}
+
+body{
+    border: 4px solid #990011;
+    background-color: #C1761C
+}
+
+h1 {
+    text-align: center;
+    color: #0011FF;
+    border-top: 2px dotted #686143;
+    font-size: 42pt;
+    border-bottom: 2px dotted #686143;
+    text-transform: uppercase;
+    
+    }
+p{  
+    <link href="https://fonts.googleapis.com/css?family=Nanum+Brush+Script|Scada|Varela" rel="stylesheet">
+    line-height: 14pt;
+    font-size: 14pt;
+    color: #995c00
+    
+    
+}
+a{
+    color: #686143;
+    text-decoration:none;
+    font-size: 12 pt;
+}
+a:hover{
+    color: #6ef442;
+}
+img{
+    border: medium solid #666;
+    box-shadow: 5px 5px 5px rgba(0,0,0,3);
+}
